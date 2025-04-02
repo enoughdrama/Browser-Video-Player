@@ -1,3 +1,5 @@
+<img width="1022" alt="image" src="https://github.com/user-attachments/assets/a9546bb9-7521-4681-b059-5076f84cb052" />
+
 ## Key Features
 
 - Minimalist interface with focused interactions
